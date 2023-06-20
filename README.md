@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix OpenVINO missing batch-size bug (#9264)
