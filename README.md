@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Tracker: clean up GMC (#8003)
