@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Fix TypeError in check_cfg() (#9245)
