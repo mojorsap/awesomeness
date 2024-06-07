@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix OpenVINO links (#7930)
