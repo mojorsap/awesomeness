@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Update OpenVINO INT8 export (#7515)
