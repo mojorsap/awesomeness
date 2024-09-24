@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix TypeError in check_cfg() (#9245)
