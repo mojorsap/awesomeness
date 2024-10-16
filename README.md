@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
